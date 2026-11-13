@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+TpnVirCmE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stell\\OneDrive\\Documentos\\tareas classroom\\7mo\\modelos y sistemas\\TP_Int\\UI_Pañol\\UI_Pañol\\UI_Pañol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\stell\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\stell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\stell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
