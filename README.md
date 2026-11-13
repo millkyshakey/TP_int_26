@@ -1,6 +1,6 @@
 # Trabajo Práctico integrador
 ## Materia correspondiente: Modelos y Sistemas
-Docente: Denaro Gian Franco
+Docente: Denaro Gian Franco  
 Alumna: Papa Alvarez Rocio
 ## Sobre el sistema
 Este sistema de pañol se encuentra actualmente como solo visualización, sin manipulación de datos.
