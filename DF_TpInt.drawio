@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="fZRaf9VrvvqNph3s88yA">
+    <mxGraphModel dx="1212" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-4" edge="1" parent="1" source="iTmJqrLniHoj3OhIQnjF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="iTmJqrLniHoj3OhIQnjF-3">
+          <mxGeometry relative="1" x="0.0222" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="465" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-3" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Ingresa devolución de herramienta" vertex="1">
+          <mxGeometry height="60" width="170" x="430" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-16" edge="1" parent="1" source="iTmJqrLniHoj3OhIQnjF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="iTmJqrLniHoj3OhIQnjF-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="Analiza herramienta" vertex="1">
+          <mxGeometry height="60" width="150" x="320" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-11" edge="1" parent="1" source="iTmJqrLniHoj3OhIQnjF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="iTmJqrLniHoj3OhIQnjF-5" value="Si">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-13" edge="1" parent="1" source="iTmJqrLniHoj3OhIQnjF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="iTmJqrLniHoj3OhIQnjF-12" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="¿Hay herramienta?" vertex="1">
+          <mxGeometry height="100" width="100" x="465" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-8" edge="1" parent="1" source="iTmJqrLniHoj3OhIQnjF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="iTmJqrLniHoj3OhIQnjF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="100" x="590" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-3" edge="1" parent="1" source="iTmJqrLniHoj3OhIQnjF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dnee05r3Ci3AGo3y0eZm-1" value="No">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-9" edge="1" parent="1" source="iTmJqrLniHoj3OhIQnjF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dnee05r3Ci3AGo3y0eZm-8" value="Si">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iTmJqrLniHoj3OhIQnjF-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="¿Hay daño?" vertex="1">
+          <mxGeometry height="100" width="100" x="345" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-5" edge="1" parent="1" source="dnee05r3Ci3AGo3y0eZm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dnee05r3Ci3AGo3y0eZm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="Actualiza stock de herramienta" vertex="1">
+          <mxGeometry height="60" width="150" x="445" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;div&gt;Guarda herramienta&lt;/div&gt;en stock general" vertex="1">
+          <mxGeometry height="60" width="170" x="435" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="100" x="470" y="711" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-7" edge="1" parent="1" source="dnee05r3Ci3AGo3y0eZm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dnee05r3Ci3AGo3y0eZm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-15" edge="1" parent="1" source="dnee05r3Ci3AGo3y0eZm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dnee05r3Ci3AGo3y0eZm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="Cambia estado de herramienta" vertex="1">
+          <mxGeometry height="60" width="150" x="195" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-18" edge="1" parent="1" source="dnee05r3Ci3AGo3y0eZm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dnee05r3Ci3AGo3y0eZm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-14" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Genera solicitud de herramienta rota" vertex="1">
+          <mxGeometry height="60" width="170" x="185" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-17" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;div&gt;Guarda herramienta&lt;/div&gt;&lt;div&gt;en stock dañado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="185" y="711" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-19" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="100" x="220" y="809" as="geometry" />
+        </mxCell>
+        <mxCell id="dnee05r3Ci3AGo3y0eZm-20" edge="1" parent="1" source="dnee05r3Ci3AGo3y0eZm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dnee05r3Ci3AGo3y0eZm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
